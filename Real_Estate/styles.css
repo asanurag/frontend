@@ -201,4 +201,153 @@ nav {
     color: #000C1A;
     }
 
+.frame-337 {
+    width: 733px;
+    height: 385px;
+    top: 1530px;
+    left: 627px;
+    gap: 32px;
+}
 
+.frame-296 {
+    width: 733px;
+    height: 292px;
+    gap: 16px;
+}
+
+.text-unlock p {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #000C1A;
+    color: #FFFFFF;
+}
+
+.text-osumare {
+    width: 733px;
+    height: 180px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+.m-buttons {
+    display: flex;
+    gap: 16px;
+}
+
+/* Styles for Services Section */
+
+.services-section {
+    width: 1440px;
+    height: 997px;
+    top: 2147.5px;
+    padding: 91px 81px;
+    gap: 10px;
+    background-color: #F9F9F9;
+}
+
+.frame-866 {
+    width: fill(1278px);
+    height: 108px;
+    gap: 16px;
+}
+
+.text-service-offerings p {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #000C1A;
+    color: #FFFFFF;
+}
+
+.text-strategies p {
+    width: 1278px;
+    height: 44px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+.frame-291 {
+    width: fill(1278px);
+    height: 510px;
+    gap: 30px;
+}
+
+.service-card {
+    width: fixed(297px);
+    height: 239px;
+    padding: 32px 16px;
+    border-radius: 8px;
+    gap: 16px;
+    background-color: #FFFFFF;
+    box-shadow: -3px 4px 16px 0px #0000000A;
+}
+
+.frame-281 {
+    width: fill(265px);
+    height: 83px;
+    gap: 8px;
+}
+
+.group-117 {
+    width: 52px;
+    height: 52px;
+}
+
+.ellipse-170 {
+    width: 52px;
+    height: 52px;
+    left: 106.5px;
+}
+
+.seo-vector {
+    width: 20px;
+    height: 18px;
+    top: 3px;
+    left: 2px;
+    background-color: #0078FF;
+}
+
+.automotive-seo p {
+    width: 265px;
+    height: 23px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #000C1A;
+    color: #FFFFFF;
+}
+
+.seo-description p {
+    width: 265px;
+    height: 76px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #333333;
+    color: #FFFFFF;
+}
